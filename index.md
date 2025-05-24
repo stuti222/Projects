@@ -14,6 +14,7 @@ An AI-powered wellness app that helps users track their meals, analyze nutrition
 <br><br>
 2. [**Emotional Empowerment and Growth (In progress)**](https://github.com/stuti222/Emotional-Empowerment-and-Growth/tree/main) 
 3. [**Behaviour Change & Experimentation Dashboard (In progress)**](https://github.com/stuti222/Behaviour-Change-Experimentation-Dashboard/tree/main)
+4. [**Health & Tech Learning Platform (In progress)**](https://github.com/stuti222/Health-Tech-Learning-Platform/tree/main)
 
 ---
 
